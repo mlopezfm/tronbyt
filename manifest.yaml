@@ -1,0 +1,19 @@
+---
+id: apex-reef
+name: Apex Reef
+summary: Reef parameters from Apex
+desc: Shows temperature, pH, alkalinity, calcium, magnesium and salinity read directly from a Neptune Systems Apex controller on your local network. Alkalinity, calcium and magnesium come from a Trident. Readings outside typical reef ranges are highlighted in red. The Apex is read over your LAN, so your Tronbyt server must be able to reach the Apex's IP address.
+author: claude
+fileName: apex_reef.star
+packageName: apexreef
+recommendedInterval: 5
+supports2x: true
+supports64x64: true
+category: smart-home
+tags:
+  - nature
+  - smart-home
+  - tracking
+  - wide 2x support
+published: '2026-10-31T00:00:00Z'
+updated: '2026-10-31T00:00:00Z'
